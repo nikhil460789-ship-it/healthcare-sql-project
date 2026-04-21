@@ -117,6 +117,7 @@ insurance    ──┘
 
 ## 👤 Author
 
-**[Your Name]**  
-[Your LinkedIn URL]  
-[Your Email]
+**Nikhil Kundu**  
+https://www.linkedin.com/in/nikhil-kundu-654b30236  
+nikhil460789@gmail.com
+
