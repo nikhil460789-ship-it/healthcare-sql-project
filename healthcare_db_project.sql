@@ -617,36 +617,3 @@ FROM (
 WHERE med_rank = 1;
 
 
--- ============================================================
--- RESUME BULLET POINTS
--- (Copy these into your resume under Projects section)
--- ============================================================
---
--- • Designed a normalized MySQL relational database for
---   healthcare admissions data, decomposing a flat CSV into
---   5 structured tables with foreign key constraints and a
---   CHECK constraint to enforce data integrity.
---
--- • Built a reusable ETL pipeline as a MySQL stored procedure,
---   automating data cleaning, deduplication, staging table
---   archival, and fact table population in one callable step.
---
--- • Implemented a blood type conflict audit log to surface
---   data quality issues transparently rather than silently
---   overwriting them, demonstrating production-grade thinking.
---
--- • Wrote advanced SQL analytical queries using window
---   functions (RANK, DENSE_RANK, LAG) to derive doctor revenue
---   rankings, hospital performance tiers, and month-over-month
---   revenue growth with percentage change.
---
--- • Added performance indexes on 5 key columns (admission_date,
---   patient_id, hospital_id, doctor_id, insurance_id) to
---   optimize query execution on large datasets.
---
--- • Performed time-series revenue analysis and insurance impact
---   studies, generating actionable insights for capacity
---   planning, billing optimization, and clinical resource
---   allocation.
---
--- ============================================================
